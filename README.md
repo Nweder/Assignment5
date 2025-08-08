@@ -1,4 +1,4 @@
-# Assignment 5 – LiDAR Data Processing #
+# Assignment 5 #
 **Name:** Mohamad Nweder  
 **Course:** Industrial AI and eMaintenance - Part I: Theories & Concepts D7015B 55031 VT2025 
 ## GitHub Repository
